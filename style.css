@@ -1,0 +1,97 @@
+.navigation
+{
+	background-color: black;
+	color:white;
+	padding:30px;
+}
+nav
+{
+	display: inline;
+}
+li,h3,ul
+{
+	display:inline;
+}
+ul
+{
+	padding-left:60%;
+	color:gray;
+}
+li
+{
+	padding-left:15px;
+	cursor:pointer;
+
+}
+li:hover
+{
+	color:white;
+
+}
+.search
+{
+	padding-top:30px;
+	text-align: center;
+}
+input
+{
+	width:60%;
+	height:30px;
+}
+input[placeholder]
+{
+	padding-left: 10px;
+}
+img
+{
+	width:220px;
+	height:220px;
+	display:inline-block;
+}
+.products
+{
+	display: inline-block;
+	padding-top: 30px;
+	text-align: center;
+	padding-left: 300px;
+}
+.box{
+    display:inline-block;
+    border-color:black;
+    border-width:2px;
+    border-style: solid;
+    width:220px;
+    padding-left: 7px;
+
+}
+p
+{
+	padding-right: 4px;
+	padding-left: 4px;
+}
+p:hover
+{
+	background-color: black;
+	color:white;
+}
+.about
+{
+	text-align:center;
+}
+h4:hover
+{
+	color:blue;
+	cursor:pointer;
+}
+button
+{
+	margin-bottom: 7px;
+	background-color: black;
+	color: white;
+}
+button:hover
+{
+	background-color: white;
+	color:blue;
+	cursor:pointer;
+}
